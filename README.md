@@ -347,7 +347,3 @@ The content is educational and does not claim that any single method, applicatio
 - [MakesYouFluent](https://www.makesyoufluent.com/) — AI-powered language learning and conversation practice.
 - [AI Language Learning Guide](https://github.com/makesyoufluent/AI-Language-Learning-Guide) — A related resource covering AI language learning, virtual tutors, personalization, and learning outcomes.
 - [Language Learning Speaking Practice](https://github.com/makesyoufluent/language-learning-speaking-practice) — Practical resources covering speaking, conversation, pronunciation, listening, and confidence.
-
----
-
-This repository is intended to evolve as additional educational resources are developed. Future contributions should add distinct explanations, examples, or practical frameworks rather than repeat material already covered here.
